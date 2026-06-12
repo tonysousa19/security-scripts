@@ -3,9 +3,9 @@ import hashlib
 file = input("File: ")
 
 with open(file, "rb") as f:
-    dados = f.read()
+    data = f.read()
     
-hash = hashlib.sha256(dados).hexdigest()
+hash = hashlib.sha256(data).hexdigest()
 
 print("SHA256: ")
 print(hash)
