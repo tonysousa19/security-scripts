@@ -1,6 +1,6 @@
 import re
 
-password = input("Senha: ")
+password = input("Password: ")
 
 score = 0
 
