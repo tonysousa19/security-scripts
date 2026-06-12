@@ -4,8 +4,6 @@ Small scripts created while studying cybersecurity.
 
 ## Scripts
 
-system_info.sh
-Collects Linux system information.
+system_info.sh: Collects Linux system information.
 
-file_hash.py
-Generates SHA256 hashes.
+file_hash.py: Generates SHA256 hashes.
